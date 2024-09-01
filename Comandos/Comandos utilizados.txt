@@ -1,0 +1,7 @@
+# Comandos utilizados
+
+ - git clone
+ - git ls
+ - git status
+ - git commit
+ - git push
